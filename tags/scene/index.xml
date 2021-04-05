@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Home Page</title>
+    <link>https://anupsakpal.github.io/portfolio_t3/tags/scene/</link>
+    <description>Recent content in scene on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://anupsakpal.github.io/portfolio_t3/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Analyst - Mahindra Bristlecone</title>
+      <link>https://anupsakpal.github.io/portfolio_t3/post/company-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anupsakpal.github.io/portfolio_t3/post/company-3/</guid>
+      <description>Responsibilities
+ Quality checks on SQL databases on parameters like unit sales, inventory, dollar sales and more parameters in performance analytics for more than 4000 retailer supplier partnerships for our client SPS Commerce, New Jersey, USA. Loading of Item, Item Account and Location master files in SQL server after series of quality checks and error nullification using SSIS and SSRS. Developing and deploying various weekly dashboards, extracts and excel reports using Microstrategy and Power BI.</description>
+    </item>
+    
+  </channel>
+</rss>

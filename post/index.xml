@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Home Page</title>
+    <link>https://anupsakpal.github.io/portfolio_t3/post/</link>
+    <description>Recent content in Career on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://anupsakpal.github.io/portfolio_t3/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Analyst - Mahindra Bristlecone</title>
+      <link>https://anupsakpal.github.io/portfolio_t3/post/company-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anupsakpal.github.io/portfolio_t3/post/company-3/</guid>
+      <description>Responsibilities
+ Quality checks on SQL databases on parameters like unit sales, inventory, dollar sales and more parameters in performance analytics for more than 4000 retailer supplier partnerships for our client SPS Commerce, New Jersey, USA. Loading of Item, Item Account and Location master files in SQL server after series of quality checks and error nullification using SSIS and SSRS. Developing and deploying various weekly dashboards, extracts and excel reports using Microstrategy and Power BI.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Business Intelligence Developer - Thermax Ltd</title>
+      <link>https://anupsakpal.github.io/portfolio_t3/post/company-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anupsakpal.github.io/portfolio_t3/post/company-2/</guid>
+      <description>Responsibilities:
+ Data pre-processing and integration using SQL ETL for data acquisitions in Boiler Industries Designed, Implemented and tested SSIS packages for loading data files to the intermediate databases. Loading data to the Reporting Database used to generate reports and dashboards. Quality checks on the real time data and verification of the data using SQL and parameter monitors. Automation of webservices task using Python Selenium.  Achievements:
+ Automation of manual web tasks using Python Selenium.</description>
+    </item>
+    
+    <item>
+      <title>PLC Automation and Database Developer - Inditron Enterprises</title>
+      <link>https://anupsakpal.github.io/portfolio_t3/post/company-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anupsakpal.github.io/portfolio_t3/post/company-1/</guid>
+      <description>Responsibilities:
+ Working on ETL and DCS logics and report exportation in different environments for Water Treatment Projects. Understanding client requirements and Monitoring daily jobs in Staging and Production regions in SQL. Modifying interfaces and reports as per Service requests using Power BI and SQL services. Developing visualizations on HMI of dashboards and reports.  Achievements:
+ Migration of traditional excel reports of the customers into Power BI environment for easy monitoring of daily production helped reduce the pre-processing of data and saved man-hours for the client.</description>
+    </item>
+    
+  </channel>
+</rss>
